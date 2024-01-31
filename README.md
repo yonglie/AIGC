@@ -1,5 +1,8 @@
 # AIGC + ChatGPT
 AIGC跨境贸易指南针
+
+https://ai.smtso.com/?i=741939&c=tb
+
 ![image](https://github.com/yonglie/AIGC/assets/1784965/0d397aa3-8c51-4b69-851e-da85364cea50)
 ![image](https://github.com/yonglie/AIGC/assets/1784965/04071352-2c2a-4d66-b3cf-fd9ebad4edd3)
 
