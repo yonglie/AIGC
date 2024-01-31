@@ -1,5 +1,8 @@
 # AIGC
 AIGC跨境贸易指南针
+![image](https://github.com/yonglie/AIGC/assets/1784965/0d397aa3-8c51-4b69-851e-da85364cea50)
+![image](https://github.com/yonglie/AIGC/assets/1784965/04071352-2c2a-4d66-b3cf-fd9ebad4edd3)
+
 
 1、AIGC商业决策
 市场研究，热销国家，目标客户群体分析，海量买家推送，关键词搜索。
