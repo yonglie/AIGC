@@ -40,6 +40,42 @@ AIGC跨境贸易指南针
 12、客户洞见
 从用户反馈中提取洞察并用于改进产品、服务和销售策略。
 
+1. AIGC business decision-making 
+ market research, hot-selling countries, target customer group analysis, massive buyer push, keyword search. 
+
+2. Wentian
+Original ChatGPT interface, talk to the brain with the highest IQ in the world. 
+
+3. Ai to find customers 
+Quickly and accurately obtain the contact information of potential customers to provide strong support for marketing and sales teams. 
+
+4. Writing development letters 
+Helps you easily create engaging development letters and improve business sales efficiency. 
+
+5. Marketing Video
+Create engaging multimedia content to meet diverse creative and communication needs. 
+
+6. Language translation 
+Language translation to achieve barrier-free communication in global cross-cultural exchanges. 
+
+7. Foreign Trade Contract
+ helps you create legally binding contract text and improve the efficiency and accuracy of contract writing. 
+
+8. Peer analysis
+Deeply dig into competitors' import and export data to provide enterprises with strategic insights and decision-making support to achieve market competitive advantage. 
+
+9. Content creation
+ Provide eye-catching text descriptions and visually appealing video scripts for products to enhance marketing and brand communication effects. 
+
+10. Marketing strategy formulation
+Provide personalized and efficient marketing strategy suggestions for enterprises to help brand promotion and business growth. 
+
+11. Cross-border cultural etiquette
+The basis of transaction is communication, and the basis of communication is the understanding of faith and culture. 
+
+12. Customer Insights
+Extract insights from user feedback and use them to improve products, services and sales strategies.
+
 地址：
 https://ai.smtso.com/?i=741939&c=tb
 
